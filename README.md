@@ -31,16 +31,16 @@ Ratings for dorms and dining halls uploaded by users will be saved in the applic
     
 ### 3. Meaningfully Search Through Server-Side Data: 
 
-Users will be able to filter housing buildings by certain categories (accessibility to food, proximity to campus, parking, access to essentials, and noise level). Users can also look up specific dorms through the search bar, where clicking on a result takes the user to the building's page. Due to the smaller number of dining options, search results are only limited to dorm buildings. Moreover, searching for and making a list of preferred housing is more practical than doing so for dining options, as students can only live in one dorm building for the entire year but can eat at any dining hall they choose.
+Users are able to filter housing buildings by certain categories (accessibility to food, proximity to campus, parking, access to essentials, and noise level). Users can also look up specific dorms through the search bar, where clicking on a result takes the user to the building's page. Due to the smaller number of dining options, search results are only limited to dorm buildings. Moreover, searching for and making a list of preferred housing is more practical than doing so for dining options, as students can only live in one dorm building for the entire year but can eat at any dining hall they choose.
     
 ### 4. Unique Feature #1:
 
-User profiles will be done with email/password authentication via Firebase authentication, which allows for individual students to keep a curated list of housing they like for ease of use in the app, and also prevents any flooding of the site by troll reviews, as users must have an account in order to leave a review. Any user, logged in or not, however, will be able to view the pages in this application.
+User profiles are created and accessed with email/password authentication via Firebase authentication. Visiting the app with a profile allows students to keep a curated list of housing they like for ease of use. In addition, users must have an account in order to leave a review, which prevents any flooding of the site by troll reviews. However, any user, logged in or not, will be able to view the ratings and reviews.
     
 ### 5. Unique Feature #2:
 
-Users will have a live text search that allows for searching specific housing buildings, this is done so that a student will not have to search through a list if they know exactly what they are looking for and can instead find directly what people think about a specific housing option. On the review side of the application, users can submit a text review, a review of ratings (i.e. rating from 1-5), or both for both housing and dining halls.
+Users have access to a live text search that allows them to search for specific housing buildings. This makes it easier for users to find a particular page, instead of having to search through their created lists to visit the page they want. Users can also submit a star rating from 1-5 and a text review for any housing or dining option.
     
 ### 6. Unique Feature #3:  
 
-Users will be able to save a list of preferred housing buildings under their user profiles, enabled by google authentication. Users can modify any list that they may have already created, adding or removing items from said list. They can also create new lists, and clicking on any housing name in the list will take the user to a new tab which navigates to that housing name's page.
+Users are able to save a list of preferred housing buildings under their user profiles, enabled by Google authentication. Users can create new lists or modify existing ones. Clicking on any housing name in the list will take the user to a new tab which navigates to that dorm building's page.
