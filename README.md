@@ -31,7 +31,7 @@ Ratings for dorms and dining halls uploaded by users will be saved in the applic
     
 ### 3. Meaningfully Search Through Server-Side Data: 
 
-Users will be able to filter housing buildings by certain categories (accessibility to food, proximity to UCLA, parking, access to essentials, and noise level). Users can also look up specific dorms through the search bar, where clicking on a result takes the user to the building's page. Due to the smaller number of dining options, search results are only limited to dorm buildings. Moreover, searching for and making a list of preferred housing is more practical than doing so for dining options, as students can only live in one dorm building for the entire year but can eat at any dining hall they choose.
+Users will be able to filter housing buildings by certain categories (accessibility to food, proximity to campus, parking, access to essentials, and noise level). Users can also look up specific dorms through the search bar, where clicking on a result takes the user to the building's page. Due to the smaller number of dining options, search results are only limited to dorm buildings. Moreover, searching for and making a list of preferred housing is more practical than doing so for dining options, as students can only live in one dorm building for the entire year but can eat at any dining hall they choose.
     
 ### 4. Unique Feature #1:
 
