@@ -1,7 +1,7 @@
 # RateMyResidential
 A web application project for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. The frontend is built with React, and the backend is built with Firebase (databases, user authentication, and hosting).
 
-## Instructions on installing and running the app:
+## How to Install and Run the App:
 
 Make sure node.js is installed, and if not, install it here:
 https://nodejs.org/en/
