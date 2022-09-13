@@ -1,24 +1,22 @@
 # RateMyResidential
-A web application project for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. The frontend is built with React, and the backend is built with Firebase (databases, user authentication, and hosting).
+A web application project for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. Built with React for the frontend and Firebase for the backend (databases, user authentication, and hosting).
 
 ## How to Install and Run the App:
 
-Make sure node.js is installed, and if not, install it here:
+Make sure Node.js is installed. If not, install it here:
 https://nodejs.org/en/
 
-Make sure Git is also installed, and if not, install it here:
+Make sure Git is installed. If not, install it here:
 https://git-scm.com/downloads
 
-Once Node.js and Git are installed, run the following commands in terminal in order:
+Once Node.js and Git are installed, run the following commands in the terminal:
 1) git clone https://github.com/nisukapalli/RateMyResidential.git
 2) cd RateMyResidential
 3) npm install
 4) npm start
 
-This series of commands will clone the GitHub repository to your local machine
-and install the necessary node modules to run a localhost of the web app. 
-The api key and config needed to call the Firebase database are included during 
-'git clone', so you can simply run 'npm start' immediately.
+These commands will clone the GitHub repository to your local machine and install the necessary Node modules to run a localhost of the web app.
+<break/ >
 
 Alternatively, you can visit the Firebase-hosted web app link here:
 https://l-housing.web.app/
