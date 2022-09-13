@@ -1,4 +1,5 @@
 # RateMyResidential
+
 A web application project for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. Built with React for the frontend and Firebase for the backend (databases, user authentication, and hosting).
 
 ## How to Run the App:
@@ -16,13 +17,9 @@ Or, clone the GitHub repository to your local machine and run a localhost of the
 
 ## Description
 
-Similar to how Bruinwalk is a service for selecting classes and professors, particularly
-through a student-community perspective, this app serves as a service for rating/reviewing on-campus housing and dining halls in UCLA. Users are able to leave reviews for housing and dining halls in their respective different categories, and other users can search for housing as well as keep their own curated list of housing for ease of use later. The purpose of this app is also based on the fact that while platforms such as Reddit have students talking about housing and dining halls, there is no one consolidated place to see all reviews and ratings.
-
+This app is a service for rating and reviewing on-campus housing and dining options at UCLA. Users are able to leave reviews in various categories, search for dorm buildings, and maintain a list of their preferred housing options. RateMyResidential is inspired by Bruinwalk, a website that features anonymous student reviews of professors and classes at UCLA. Moreover, while platforms like Reddit have threads discussing UCLA's housing and dining options, they tend to be scattered across many posts, requiring students to search for specific questions they have. This web app provides a consolidated location that facilitates finding and making reviews and ratings.
 
 ## Key Features
-
-Key features as mentioned in the project assignment spec.
 
 ### 1. Display Dynamic Data to the User
 
