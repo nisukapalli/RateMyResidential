@@ -1,6 +1,6 @@
 # RateMyResidential
 
-A web application project for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. Built with React for the frontend and Firebase for the backend (databases, user authentication, and hosting).
+A web application for viewing and rating/reviewing on-campus residential dorms and dining halls in UCLA. Built with React for the frontend and Firebase for the backend (database, user authentication, and hosting).
 
 ## How to Run the App:
 
@@ -23,15 +23,15 @@ This app is a service for rating and reviewing on-campus housing and dining opti
 
 ### 1. Display Dynamic Data to the User
 
-Users will be able to view and add ratings in the form of star ratings and text reviews. The ratings and number of reviews will change as more ratings/reviews come in, allowing a ever growing database to give more and more helpful advice to future students. Furthermore, users who log in can generate multiple lists of preferred housing that they might like. Some pages will display different elements based on whether a user is logged in or not.
+Users will be able to view and add star ratings and text reviews. The ratings and number of reviews will change as more ratings/reviews come in, allowing a growing database to give more helpful advice to future students. Some pages will display different elements based on whether a user is logged in or not. Users who log in can generate multiple lists of preferred housing options.
     
 ### 2. Upload Data from Client to the Backend:
 
-Ratings for dorms and dining halls uploaded by users will be saved in the application’s database along with user reviews written with a text form. The preferred housing lists created/modified by users will also be uploaded/called by and from the database.
+Ratings for dorms and dining halls uploaded by users will be saved in the application’s database along with written user reviews. The preferred housing lists created and modified by users will also be uploaded to and called from the database.
     
 ### 3. Meaningfully Search Through Server-Side Data: 
 
-Users will be able to order housing buildings via specific filters (e.g. accessibility to food, proximity to UCLA, parking, access to essentials, noise level). Not only that, but users can also look up housing names through the search bar, where clicking a result takes the user to the building's page. Due to the small number of dining halls, we decided to limit search options to housing, as searching/making a list of preferred housing holds far more weight than making a small list of preferred dining halls.
+Users will be able to filter housing buildings by certain categories (accessibility to food, proximity to UCLA, parking, access to essentials, and noise level). Users can also look up specific dorms through the search bar, where clicking on a result takes the user to the building's page. Due to the smaller number of dining options, search results are only limited to dorm buildings. Moreover, searching for and making a list of preferred housing is more practical than doing so for dining options, as students can only live in one dorm building for the entire year but can eat at any dining hall they choose.
     
 ### 4. Unique Feature #1:
 
