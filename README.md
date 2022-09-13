@@ -34,15 +34,15 @@ through a student-community perspective, this app serves as a service for rating
 
 Key features as mentioned in the project assignment spec.
 
-### 1. Display Dynamic Data to the User:
+### 1. Display Dynamic Data to the User
 
 Users will be able to view and add ratings in the form of star ratings and text reviews. The ratings and number of reviews will change as more ratings/reviews come in, allowing a ever growing database to give more and more helpful advice to future students. Furthermore, users who log in can generate multiple lists of preferred housing that they might like. Some pages will display different elements based on whether a user is logged in or not.
     
-### 2. Upload Data from Client to Back-end:
+### 2. Upload Data from Client to the Backend:
 
 Ratings for dorms and dining halls uploaded by users will be saved in the application’s database along with user reviews written with a text form. The preferred housing lists created/modified by users will also be uploaded/called by and from the database.
     
-### 3. Meaningfully Search through Server-side Data: 
+### 3. Meaningfully Search Through Server-Side Data: 
 
 Users will be able to order housing buildings via specific filters (e.g. accessibility to food, proximity to UCLA, parking, access to essentials, noise level). Not only that, but users can also look up housing names through the search bar, where clicking a result takes the user to the building's page. Due to the small number of dining halls, we decided to limit search options to housing, as searching/making a list of preferred housing holds far more weight than making a small list of preferred dining halls.
     
