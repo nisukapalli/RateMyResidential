@@ -3,20 +3,14 @@ A web application project for viewing and rating/reviewing on-campus residential
 
 ## How to Install and Run the App:
 
-Make sure Node.js is installed. If not, install it here:
-https://nodejs.org/en/
-
-Make sure Git is installed. If not, install it here:
-https://git-scm.com/downloads
-
-Once Node.js and Git are installed, run the following commands in the terminal:
+Make sure Node.js and Git are installed. Then, run the following commands in the terminal:
 1) git clone https://github.com/nisukapalli/RateMyResidential.git
 2) cd RateMyResidential
 3) npm install
 4) npm start
 
 These commands will clone the GitHub repository to your local machine and install the necessary Node modules to run a localhost of the web app.
-<break/ >
+<br />
 
 Alternatively, you can visit the Firebase-hosted web app link here:
 https://l-housing.web.app/
