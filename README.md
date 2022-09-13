@@ -11,6 +11,7 @@ Make sure Node.js and Git are installed. Then, run the following commands in the
 
 These commands will clone the GitHub repository to your local machine and install the necessary Node modules to run a localhost of the web app.
 <br />
+<br />
 
 Alternatively, you can visit the Firebase-hosted web app link here:
 https://l-housing.web.app/
