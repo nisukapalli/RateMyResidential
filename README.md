@@ -7,7 +7,6 @@ Either:
 
 Visit the Firebase-hosted web app link:
 https://l-housing.web.app/
-<br />
 
 Or, clone the GitHub repository to your local machine and run a localhost of the web app. To do this, first make sure Node.js and Git are installed. Then, run the following commands in the terminal:
 1) git clone https://github.com/nisukapalli/RateMyResidential.git
