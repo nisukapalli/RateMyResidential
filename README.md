@@ -17,7 +17,7 @@ Or, clone the GitHub repository to your local machine and run a localhost of the
 
 ## Description
 
-This app is a service for rating and reviewing on-campus housing and dining options at UCLA. Users are able to leave reviews in various categories, search for dorm buildings, and maintain a list of their preferred housing options. RateMyResidential is inspired by Bruinwalk, a website that features anonymous student reviews of professors and classes at UCLA. Moreover, while platforms like Reddit have threads discussing UCLA's housing and dining options, they tend to be scattered across many posts, requiring students to search for specific questions they have. This web app provides a consolidated location that facilitates finding and making reviews and ratings.
+This app is a service for rating and reviewing on-campus housing and dining options at UCLA. Users are able to leave reviews in various categories, search for dorm buildings, and maintain a list of their preferred housing options. While platforms like Reddit have threads discussing UCLA's housing and dining options, they tend to be scattered across many posts, requiring students to search for specific questions they have. The purpose of this web app is to provide a consolidated location that facilitates finding and making reviews and ratings. RateMyResidential is inspired by Bruinwalk, a website that features anonymous student reviews of professors and classes at UCLA.
 
 ## Key Features
 
